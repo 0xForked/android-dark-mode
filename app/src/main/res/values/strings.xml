@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_dark_mode">App Dark Mode!</string>
+    <string name="text_description">Android Application Dark Mode Implementation</string>
+    <string name="btn_dark_enable">Enable Dark Mode</string>
+    <string name="btn_dark_disable">Disable Dark Mode</string>
+</resources>
